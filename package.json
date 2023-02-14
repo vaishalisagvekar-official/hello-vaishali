@@ -1,0 +1,28 @@
+{
+  "name": "hello-vaishali",
+  "version": "1.0.8",
+  "description": "demo package",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaishalisagvekar-official/hello-vaishali.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Vaishali Sagvekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaishalisagvekar-official/hello-vaishali/issues"
+  },
+  "homepage": "https://github.com/vaishalisagvekar-official/hello-vaishali#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
